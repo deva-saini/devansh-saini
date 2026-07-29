@@ -1,5 +1,5 @@
 import React from "react";
-import zaid from "../assets/videos/zaid.mp4";
+import zaid from "../assets/videos/zaid-video.mp4";
 import dev from "../assets/videos/dev.mp4";
 import saharanpurclub from "../assets/videos/saharanpurclub.mp4";
 import devansh from "../assets/videos/devansh.mp4";
